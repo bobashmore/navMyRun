@@ -11,7 +11,6 @@ import FBSDKCoreKit
 import FBSDKLoginKit
 
 class ViewController: UIViewController, FBSDKLoginButtonDelegate {
-
     @IBOutlet weak var facebookImage: UIImageView!
     @IBOutlet weak var facebookName: UILabel!
     @IBOutlet weak var facebookEmail: UILabel!
